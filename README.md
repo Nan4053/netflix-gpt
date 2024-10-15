@@ -9,7 +9,7 @@
 ## Upcoming movies
 ## Popular movies
 ## Horror movies
-## Recommende movies using ML model with content and collaborative filterting 
+## Recommended movies using ML model with content and collaborative filterting 
 ## NetflixGPT
   ## Search Bar
   ## Movie Suggestions
